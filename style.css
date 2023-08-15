@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    overflow-x: hidden;
+}
+
+.logo{
+    width: 100px;
+    display: flex;
+    margin: auto;
+    padding: 10px;
+}
+
+.time{
+    color: white;
+    position: absolute;
+    top: 37%;
+    width: 100%;
+}
+.font{
+    font-family: 'Handjet', cursive;
+    font-size: 120px;
+    text-align: center;
+    margin: 0;
+}
+.date{
+    text-align: center;
+}
+.footer{
+    color: white;
+    position: absolute;
+    width: 100%;
+    bottom: 2%;
+}
